@@ -1,12 +1,12 @@
 [
   {
     "name": "Shiny Forest",
-    "previewUrl": "https://drive.google.com/uc?id=13pU065-C5hKET--ZOnmrN3akwfoSmv0F",
-    "sceneUrl": "https://drive.google.com/uc?id=16qju1k-NEuAp7gIYxAXoT21Ebf8atdyj"
+    "previewUrl": "https://github.com/RiderX20/Shiny3DScenes/blob/main/previews/preview1.jpg",
+    "sceneUrl": "https://github.com/RiderX20/Shiny3DScenes/blob/main/scenes/scene1.txt"
   },
   {
     "name": "Cyber City",
-    "previewUrl": "https://drive.google.com/uc?id=1C4U6IPuOBIWWtOujsRJIrPrhN3r0eQ3O",
-    "sceneUrl": "https://drive.google.com/uc?id=1U11EVD35Hvpwopzj37j8f97mud3UTAsC"
+    "previewUrl": "https://github.com/RiderX20/Shiny3DScenes/blob/main/previews/preview2.jpg",
+    "sceneUrl": "https://github.com/RiderX20/Shiny3DScenes/blob/main/scenes/scene2.txt"
   }
 ]
