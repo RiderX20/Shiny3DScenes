@@ -1,0 +1,22 @@
+{
+  "creator": "x_Rider_x",
+  "description": "Made specifically for the Shiny Community server",
+  "servers": [
+    {
+      "name": "Shiny Community",
+      "url": "https://discord.gg/shiny-community"
+    },
+	{
+      "name": "BigTanks",
+      "url": "https://discord.gg/zEazPKuhCe"
+    },
+    {
+      "name": "Pashych",
+      "url": "https://discord.gg/9x3V9KnHWJ"
+    },
+	{
+      "name": "Tanki Online (RU)",
+      "url": "https://discord.gg/wwaDvcBAqz"
+	}
+  ]
+}
