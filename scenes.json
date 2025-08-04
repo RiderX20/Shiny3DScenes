@@ -2,8 +2,8 @@
   {
     "name": "Rainy day",
     "previewUrl": "https://raw.githubusercontent.com/RiderX20/Shiny3DScenes/main/previews/Rainy_day.jpg",
-    "sceneUrl": "https://raw.githubusercontent.com/RiderX20/Shiny3DScenes/main/scenes/Rainy_day.pck",
-    "sizeBytes": 2870000
+    "sceneUrl": "https://raw.githubusercontent.com/RiderX20/Shiny3DScenes/main/scenes/rainy_day/Rainy_day.glb",
+    "sizeBytes": 4340000
   },
   {
     "name": "Rainy day BiG",
@@ -13,3 +13,4 @@
     "promoCodes": ["BiG"]
   }
 ]
+
