@@ -1,5 +1,6 @@
 {
-  "rotationLimitYaw": 5,
-  "rotationLimitPitch": 1,
+  "rotationLimitYaw": 90,
+  "rotationLimitPitch": 90,
   "slowdownFactor": 1.7
 }
+
