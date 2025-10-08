@@ -1,0 +1,11 @@
+{
+  "rotationLimitYaw": 5,
+  "rotationLimitPitch": 2,
+  "slowdownFactor": 1.7,
+  "sensitivity": 0.1,
+  "smoothingFactor": 0.08,
+  "targetFps": 24,
+  "iblKtx": "Rainy_day_ibl.ktx",
+  "iblIntensity": 500000.0
+}
+
