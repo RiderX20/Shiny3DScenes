@@ -15,6 +15,8 @@
   },
 
   "lighting": {
+	"iblKtx": "https://raw.githubusercontent.com/RiderX20/Shiny3DScenes/main/scenes/Spring_games/Spring_games_ibl.ktx",
+    "skyboxKtx": "",
     "iblIntensity": 50000.0,
     "shadowsEnabled": true
   },
