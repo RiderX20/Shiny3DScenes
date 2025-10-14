@@ -15,7 +15,7 @@
   },
 
   "lighting": {
-    "iblKtx": "\/storage\/emulated\/0\/Android\/data\/com.shiny3d.wallpapers\/files\/scenes\/Spring_games\/Spring_games_ibl.ktx",
+    "iblKtx": "",
     "skyboxKtx": "",
     "iblIntensity": 50000.0,
     "shadowsEnabled": true
