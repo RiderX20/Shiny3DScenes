@@ -15,8 +15,6 @@
   },
 
   "lighting": {
-    "iblKtx": "",
-    "skyboxKtx": "",
     "iblIntensity": 50000.0,
     "shadowsEnabled": true
   },
