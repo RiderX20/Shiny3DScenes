@@ -15,7 +15,7 @@
   },
 
   "lighting": {
-	"iblKtx": "",
+	"iblKtx": "Spring_games_ibl.ktx",
     "skyboxKtx": "",
     "iblIntensity": 50000.0,
     "shadowsEnabled": true
