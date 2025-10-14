@@ -9,7 +9,6 @@
     "name": "Spring games",
     "previewUrl": "https://raw.githubusercontent.com/RiderX20/Shiny3DScenes/main/previews/Spring_games.jpg",
     "sceneUrl": "https://raw.githubusercontent.com/RiderX20/Shiny3DScenes/main/scenes/Spring_games/Spring_games.glb",
-    "iblKtx": "https://raw.githubusercontent.com/RiderX20/Shiny3DScenes/main/scenes/Spring_games/Spring_games_ibl.ktx",
     "sizeBytes": 5443584
   },
   {
@@ -20,6 +19,7 @@
     "promoCodes": ["BiG"]
   }
 ]
+
 
 
 
