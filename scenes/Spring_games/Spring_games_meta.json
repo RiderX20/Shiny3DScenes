@@ -1,0 +1,69 @@
+{
+  "sceneParams": {
+    "rotationLimitYaw": 10,
+    "rotationLimitPitch": 5,
+    "slowdownFactor": 1.7,
+    "sensitivity": 0.1,
+    "targetFps": 24
+  },
+  
+    "camera": {
+    "fovY": 35,
+    "near": 0.1,
+    "far": 1000.0,
+    "exposure": 1 
+  },
+
+  "lighting": {
+    "iblKtx": "\/storage\/emulated\/0\/Android\/data\/com.shiny3d.wallpapers\/files\/scenes\/Spring_games\/Spring_games_ibl.ktx",
+    "skyboxKtx": "",
+    "iblIntensity": 50000.0,
+    "shadowsEnabled": true
+  },
+  
+  "fog": {
+    "enabled": false,
+    "density": 0.001,
+    "color": "#FFC9B9", 
+    "height": 0.0,
+    "heightFalloff": 0.04,
+    "inScatteringSize": 0.1,
+    "fogColorFromIbl": false 
+  },
+
+  "postProcessing": {
+    "enabled": true,
+
+    "bloom": {
+      "enabled": true,
+      "strength": 10
+    },
+
+    "colorGrading": {
+      "enabled": false,
+      "toneMapping": "AgX",
+      "temperature": 0.0,
+      "contrast": 1.0,
+      "vibrance": 1.0,
+      "saturation": 1.0
+    },
+
+    "vignette": {
+      "enabled": true,
+      "midPoint": 0.5,
+      "roundness": 0.37,
+      "feather": 1.0,
+      "color": "#00000000"
+    }
+  },
+
+  "quality": {
+    "antiAliasing": "MSAA",
+    "msaaSampleCount": 2,
+	"dynamicResolution": {
+      "enabled": true,
+      "minScale": 0.7,
+      "maxScale": 1
+    }
+  }
+}
