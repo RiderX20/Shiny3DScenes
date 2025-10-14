@@ -9,7 +9,7 @@
     "name": "Spring games",
     "previewUrl": "https://raw.githubusercontent.com/RiderX20/Shiny3DScenes/main/previews/Spring_games.jpg",
     "sceneUrl": "https://raw.githubusercontent.com/RiderX20/Shiny3DScenes/main/scenes/Spring_games/Spring_games.glb",
-    "sizeBytes": 11616256
+    "sizeBytes": 5443584
   },
   {
     "name": "Rainy day BiG",
@@ -19,6 +19,7 @@
     "promoCodes": ["BiG"]
   }
 ]
+
 
 
 
