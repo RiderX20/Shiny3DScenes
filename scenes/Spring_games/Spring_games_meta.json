@@ -36,7 +36,7 @@
 
     "bloom": {
       "enabled": true,
-      "strength": 10
+      "strength": 0.5
     },
 
     "colorGrading": {
@@ -53,7 +53,7 @@
       "midPoint": 0.5,
       "roundness": 0.37,
       "feather": 1.0,
-      "color": "#00000000"
+      "color": "#80000000"
     }
   },
 
