@@ -3,7 +3,7 @@
     "rotationLimitYaw": 10,
     "rotationLimitPitch": 5,
     "slowdownFactor": 1.7,
-    "sensitivity": 0.1,
+    "sensitivity": 0.2,
     "targetFps": 24
   },
   
