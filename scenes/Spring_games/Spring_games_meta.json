@@ -41,7 +41,7 @@
 
     "colorGrading": {
       "enabled": false,
-      "toneMapping": "AgX",
+      "toneMapping": "ACES",
       "temperature": 0.0,
       "contrast": 1.0,
       "vibrance": 1.0,
