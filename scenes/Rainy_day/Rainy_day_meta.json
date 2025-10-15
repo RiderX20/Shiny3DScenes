@@ -4,7 +4,7 @@
     "rotationLimitPitch": 1,
     "slowdownFactor": 1.7,
     "sensitivity": 0.1,
-    "targetFps": 24
+    "targetFps": 30
   },
   
     "camera": {
@@ -53,17 +53,17 @@
       "midPoint": 0.5,
       "roundness": 0.37,
       "feather": 1.0,
-      "color": "#00000000"
+      "color": "#80000000"
     }
   },
 
   "quality": {
     "antiAliasing": "MSAA",
-    "msaaSampleCount": 4,
+    "msaaSampleCount": 2,
 	"dynamicResolution": {
       "enabled": true,
-      "minScale": 0.7,
-      "maxScale": 1
+      "minScale": 0.5,
+      "maxScale": 0.9
     }
   }
 }
