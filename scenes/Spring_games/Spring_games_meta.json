@@ -4,7 +4,7 @@
     "rotationLimitPitch": 5,
     "slowdownFactor": 1.7,
     "sensitivity": 0.2,
-    "targetFps": 24
+    "targetFps": 30
   },
   
     "camera": {
@@ -62,8 +62,8 @@
     "msaaSampleCount": 2,
 	"dynamicResolution": {
       "enabled": true,
-      "minScale": 0.7,
-      "maxScale": 1
+      "minScale": 0.5,
+      "maxScale": 0.9
     }
   }
 }
