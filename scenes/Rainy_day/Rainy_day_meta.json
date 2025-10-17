@@ -15,7 +15,7 @@
 
   "lighting": {
     "iblKtx": "Rainy_day_ibl.ktx",
-    "iblIntensity": 20000.0,
+    "iblIntensity": 40000.0,
     "shadowsEnabled": true
   },
   
