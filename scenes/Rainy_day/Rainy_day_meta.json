@@ -10,13 +10,11 @@
     "camera": {
     "fovY": 40,
     "near": 0.1,
-    "far": 1000.0,
-    "exposure": 1 
+    "far": 1000.0
   },
 
   "lighting": {
     "iblKtx": "Rainy_day_ibl.ktx",
-    "skyboxKtx": "",
     "iblIntensity": 20000.0,
     "shadowsEnabled": true
   },
