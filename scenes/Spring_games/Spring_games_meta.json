@@ -4,7 +4,8 @@
     "rotationLimitPitch": 5,
     "slowdownFactor": 1.7,
     "sensitivity": 0.2,
-    "targetFps": 30
+    "targetFps": 30,
+	"gyroDeadZone": 0.01
   },
   
     "camera": {
