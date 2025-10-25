@@ -9,7 +9,7 @@
   
     "camera": {
     "fovY": 35,
-    "near": 0.1,
+    "near": 0.01,
     "far": 1000.0,
     "exposure": 1 
   },
