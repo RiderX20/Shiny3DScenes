@@ -1,0 +1,61 @@
+{
+  "sceneParams": {
+    "rotationLimitYaw": 10,
+    "rotationLimitPitch": 5,
+    "slowdownFactor": 1.7,
+    "sensitivity": 0.2,
+    "targetFps": 30
+  },
+  "camera": {
+    "fovY": 35,
+    "near": 0.001,
+    "far": 1000,
+    "exposure": 1
+  },
+  "lighting": {
+    "iblKtx": "Spring_games_ibl.ktx",
+    "skyboxKtx": "",
+    "iblIntensity": 80000,
+    "shadowsEnabled": true
+  },
+  "fog": {
+    "enabled": false,
+    "density": 0.001,
+    "color": "#FFC9B9",
+    "height": 0,
+    "heightFalloff": 0.04,
+    "inScatteringSize": 0.1,
+    "fogColorFromIbl": false
+  },
+  "postProcessing": {
+    "enabled": true,
+    "bloom": {
+      "enabled": true,
+      "strength": 0.5
+    },
+    "colorGrading": {
+      "enabled": true,
+      "toneMapping": "ACES",
+      "temperature": 0,
+      "contrast": 1.1,
+      "vibrance": 1.05,
+      "saturation": 1
+    },
+    "vignette": {
+      "enabled": true,
+      "midPoint": 0.5,
+      "roundness": 0.37,
+      "feather": 1,
+      "color": "#80000000"
+    }
+  },
+  "quality": {
+    "antiAliasing": "MSAA",
+    "msaaSampleCount": 2,
+    "dynamicResolution": {
+      "enabled": true,
+      "minScale": 0.5,
+      "maxScale": 0.9
+    }
+  }
+}
