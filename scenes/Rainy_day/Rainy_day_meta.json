@@ -36,7 +36,7 @@
 
     "bloom": {
       "enabled": true,
-      "strength": 10
+      "strength": 0.5
     },
 
     "colorGrading": {
@@ -63,7 +63,7 @@
 	"dynamicResolution": {
       "enabled": true,
       "minScale": 0.5,
-      "maxScale": 0,9
+      "maxScale": 0.9
     }
   }
 }
