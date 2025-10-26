@@ -35,7 +35,7 @@
     "enabled": true,
 
     "bloom": {
-      "enabled": true,
+      "enabled": false,
       "strength": 0.5
     },
 
