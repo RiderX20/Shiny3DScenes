@@ -1,0 +1,61 @@
+{
+  "sceneParams": {
+    "rotationLimitYaw": 10,
+    "rotationLimitPitch": 2,
+    "slowdownFactor": 1.7,
+    "sensitivity": 0.2,
+    "targetFps": 30
+  },
+  "camera": {
+    "fovY": 35,
+    "near": 0.001,
+    "far": 1000,
+    "exposure": 1
+  },
+  "lighting": {
+    "iblKtx": "Ashes_in_the_Sky_ibl.ktx",
+    "skyboxKtx": "",
+    "iblIntensity": 25000,
+    "shadowsEnabled": true
+  },
+  "fog": {
+    "enabled": true,
+    "density": 0.002,
+    "color": "#57677d",
+    "height": 0,
+    "heightFalloff": 0.04,
+    "inScatteringSize": 0.5,
+    "fogColorFromIbl": false
+  },
+  "postProcessing": {
+    "enabled": true,
+    "bloom": {
+      "enabled": false,
+      "strength": 0.5
+    },
+    "colorGrading": {
+      "enabled": true,
+      "toneMapping": "ACES",
+      "temperature": -0.5,
+      "contrast": 1.3,
+      "vibrance": 1.1,
+      "saturation": 1.1
+    },
+    "vignette": {
+      "enabled": true,
+      "midPoint": 0.5,
+      "roundness": 0.37,
+      "feather": 1,
+      "color": "#80000000"
+    }
+  },
+  "quality": {
+    "antiAliasing": "MSAA",
+    "msaaSampleCount": 2,
+    "dynamicResolution": {
+      "enabled": true,
+      "minScale": 0.5,
+      "maxScale": 0.9
+    }
+  }
+}
