@@ -14,7 +14,7 @@
   {
     "name": "Ashes in the Sky",
     "previewUrl": "https://raw.githubusercontent.com/RiderX20/Shiny3DScenes/main/previews/Ashes_in_the_Sky.jpg",
-    "sceneUrl": "https://raw.githubusercontent.com/RiderX20/Shiny3DScenes/main/scenes/Spring_games/Ashes_in_the_Sky.glb",
+    "sceneUrl": "https://raw.githubusercontent.com/RiderX20/Shiny3DScenes/main/scenes/Ashes_in_the_Sky/Ashes_in_the_Sky.glb",
     "sizeBytes": 6189056
   },
   {
@@ -25,6 +25,7 @@
     "promoCodes": ["BiG"]
   }
 ]
+
 
 
 
